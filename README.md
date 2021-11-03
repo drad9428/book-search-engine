@@ -6,4 +6,8 @@ Ability to add, remove and search for books.
 
 Uses graphql and express.
 
-live application https://limitless-scrubland-13599.herokuapp.com/
+Can be deployed at the live application link below
+
+live application https://gbooks-reading-den.herokuapp.com/
+
+Use "npm run develop" to run in a local setting
